@@ -295,3 +295,37 @@ main{
         margin-bottom: 4rem;
     }
 }
+
+/*footer*/
+.footer-content{
+    display: flex;
+    align-items: center;
+    color: #8f8f8f;
+    padding: 4rem 1rem;
+}
+
+.download-options>*{
+    margin: 1rem 0;
+}
+
+.download-options>p:first-child{
+    font-weight: bold;
+    color: #0c0b0b;
+}
+
+.download-options>div{
+    display: flex;
+}
+
+.download-options>div img{
+    width: 180px;
+}
+
+.logo.footer{
+    text-align: center;
+}
+
+.links.footer h3{
+    color: #0c0b0b;
+    margin-bottom: 0.8rem;
+}
